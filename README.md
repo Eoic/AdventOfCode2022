@@ -1,2 +1,1 @@
-# AdventOfCode2022
-Advent of Code 2022 solution in Elixir.
+My Advent of Code 2022 solutions in Elixir.
